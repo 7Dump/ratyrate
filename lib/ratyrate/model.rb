@@ -142,7 +142,3 @@ module Ratyrate
   end
 
 end
-
-class ActiveRecord::Base
-  include Ratyrate
-end
